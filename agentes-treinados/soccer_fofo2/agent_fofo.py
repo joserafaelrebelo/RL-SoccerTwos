@@ -32,7 +32,7 @@ class FofoAgent2(AgentInterface):
         """
         super().__init__()
         ray.init(ignore_reinit_error=True)
-
+        self.name = "Soccer FOFO"
         # Load configuration from checkpoint file.
         config_path = ""
         if CHECKPOINT_PATH:
