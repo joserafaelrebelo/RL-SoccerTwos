@@ -4,7 +4,12 @@ Repositório destinado aos agentes para competição do projeto final de Aprendi
 ## Autores: 
 
 Alex
+
 José
+
 Lucas
+
 Luciana
+
 Rodrigo
+
